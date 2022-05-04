@@ -1,14 +1,19 @@
 IMPORTANT : Make sure to refer on Github the main source of page.
 
+
+IMPORTANT : RECHECK PAGE RESPONSIVENESS !!!!!!!!!!
+
+
 1. Create a JS file and reorganize all the JavaScript code there  @DONE
-2. Change University logo  NOT NEEDED
+2. Change University logo  
 3. Add 3 languages option in the page (ES, PT)
 4. Change project folder name to let say African online university and reorganize the project folder 
 5. Change photos (if possible all of them)
 6. Change text content to a real one
-7. Create a repository in GitHub
+7. Create a repository in GitHub @DONE
 8. Review html tags (the whole structure)
 9. visitors can create an account, then they can login/logout
+10.Custom the comment form
 
 FEATURES ADDED : 
 
